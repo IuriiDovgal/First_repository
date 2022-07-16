@@ -1,7 +1,6 @@
 ne234234324324324324wrow 123
 123newrow
 
-commit test
 
 new line2
 
@@ -11,3 +10,4 @@ err
 Add line
 16.07.09:27
 new branch line
+new line for GUI
